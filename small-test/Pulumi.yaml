@@ -1,0 +1,6 @@
+name: small-test
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: test stuffs
